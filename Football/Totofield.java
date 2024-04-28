@@ -653,7 +653,7 @@ public class Totofield extends Football {
 	// Method to calculate price
 	@Override
 	public int Pricecalculation(int numberPerson) {
-		int PriceTotol = numberPerson *  40 ;
+		int PriceTotol = numberPerson *  45 ;
 		return PriceTotol;
 	}
 	

@@ -13,9 +13,9 @@ public static void main(String[] arg) {
 	System.out.println();
 	System.out.println("--------Football field---------");
 	System.out.println();
-	System.out.println("1.Yui football field");
-	System.out.println("2.Toto football field");
-	System.out.println("3.Maha football field");
+	System.out.println("1.Yui football field   50 Bath/Person");
+	System.out.println("2.Toto football field  45 Bath/Person");
+	System.out.println("3.Maha football field  40 Bath/Person");
 	System.out.println();
 	System.out.print("Plase choose football field (Enter Number): ");
 
