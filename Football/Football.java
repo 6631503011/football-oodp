@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 public class Football {
 
-	private int Choosetfield;
-	private int Choosetime;
 	private int numberPerson;
 	private int Price;
     private String Name;
@@ -34,16 +32,6 @@ public class Football {
 		Price = price;
 	}
 
-
-	public int getChoosetfield() {
-		return Choosetfield;
-	}
-
-
-	public void setChoosetfield(int choosetfield) {
-		Choosetfield = choosetfield;
-	}
-
 	
 	public int getNumberPerson() {
 		return numberPerson;
@@ -52,17 +40,6 @@ public class Football {
 
 	public void setNumberPerson(int numberPerson) {
 		this.numberPerson = numberPerson;
-	}
-
-	public int getChoosetime() {
-		return Choosetime;
-	}
-
-
-
-
-	public void setChoosetime(int choosetime) {
-		Choosetime = choosetime;
 	}
 	
 
