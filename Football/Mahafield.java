@@ -657,7 +657,7 @@ public class Mahafield extends Football {
 		return PriceTotol;
 	}
 	
-	// Method to validate if name is in English
+	// Method to validate if name is in English!
 	@Override
 	public boolean isEnglish(String Name) {
         return Name.matches("[a-zA-Z]+");
