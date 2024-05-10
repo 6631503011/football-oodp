@@ -139,7 +139,7 @@ public class Totofield extends Football {
 		    while (true) {
 		        try {
 		        	numberPerson = scannernumber1.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
@@ -274,7 +274,7 @@ public class Totofield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber2.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
@@ -408,7 +408,7 @@ public class Totofield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber3.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
@@ -550,7 +550,7 @@ public class Totofield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber4.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{

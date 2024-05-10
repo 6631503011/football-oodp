@@ -138,7 +138,7 @@ public class Yuifield extends Football {
 		    while (true) {
 		        try {
 		        	numberPerson = scannernumber1.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
