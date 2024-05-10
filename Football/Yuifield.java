@@ -273,7 +273,7 @@ public class Yuifield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber2.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
@@ -407,7 +407,7 @@ public class Yuifield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber3.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
@@ -549,7 +549,7 @@ public class Yuifield extends Football {
 		      
 		        try {
 		        	numberPerson = scannernumber4.nextInt();
-		             if(numberPerson <= 20 && numberPerson >= 1) {
+		             if(numberPerson <= 20 && numberPerson >= 10) {
 		            	 break;
 		             }
 		             else{
